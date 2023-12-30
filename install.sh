@@ -3,7 +3,7 @@ TARGET_DIRECTORY="/usr/local/bin"
 
 # Specify the name of the script
 SCRIPT_NAME="ativaroop.sh"
-SHORT_NAME="ap"
+SHORT_NAME="ar"
 
 # Check if the script requires root permissions
 if [ "$EUID" -ne 0 ]; then
