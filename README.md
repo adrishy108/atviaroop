@@ -8,6 +8,8 @@ This Bash script allows you to scrape a website and convert its HTML content to 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/atviaroop.git
+   ```
+   ```bash
    cd atviaroop
    ```
 
